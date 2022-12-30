@@ -14,6 +14,8 @@ In that analysis we can collect secondary data in Kaggle.India is one of leading
  Rice Production in Indonesia is an important part of the national economy. Indonesia is the third largest Producer of rice in the world Leading rice producers, with Paddy production in 2003 of more than 50 million tones and cultivated Area of more than 11.5 million. Since 1980, Indonesia’s National rice yield has been Highest in tropical Asia. 
 
  Recent developments in the rice sector, Indonesia is the world’s third-largest rice producer and also one of the world’s biggest rice consumers. The country’s rice area expanded from 11.4 million ha in 1995 to 13.2 million ha in 2010, which represented 24% of the total agricultural area. Rice yield increased slightly from 4.3 t/ha in 1995 to 5 t/ha in 2010. Rice is the most important food crop in the country. 
+ ![rice_pic](https://user-images.githubusercontent.com/109405138/210088821-422eee03-ee3f-4bcb-b6b5-b051ab384eb6.PNG)
+
 ## Overview
 The motivation was to experiment with end to end machine learning project and get some idea about deployment platform like [render](https://dashboard.render.com/).
 
