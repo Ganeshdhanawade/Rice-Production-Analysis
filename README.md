@@ -129,8 +129,7 @@ https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification
 ## Acknowledgements
 
  - [Awesome HTML Templates](https://github.com/Ganeshdhanawade/Rice-Production-Analysis)
- - [Awesome Flask file](https://github.com/matiassingers/awesome-readme)
- - [Project Details](https://github.com/Ganeshdhanawade/Mobile-price-analysis/blob/main/Mobile%20Price%20Classification_detailed.docx)
+ - [Awesome Flask file](https://github.com/Ganeshdhanawade/Rice-Production-Analysis/blob/main/app.py)
 
 
 ## Environment Variables
@@ -153,7 +152,7 @@ Install my-project with npm
     
 ## Lessons Learned
 
-Now the bulding that project i can learn the concept of how to create the web in HTML and how to desing that page well attractive. Also i can get the tainled knowlaged about the render to how exactly deploy the model on cloud.
+Now the bulding that project i can learn the concept of how to create the web in HTML and how to desing that page well attractive. Also i can get the knowlaged about the render to how exactly deploy the model on cloud.
 
 In challanges my mesure challange is that how to select the best feature they are highly affected my responce.
 and selection of the best model to improve the accuracy.
