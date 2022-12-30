@@ -86,7 +86,7 @@ Below is the domo for created application
 ## Live demo
 Below is the link for live demo
 
-https://mobile-price-analysis-api.onrender.com/
+https://rice-production-analysis-api.onrender.com/
 
 
 ## Learning Objective
