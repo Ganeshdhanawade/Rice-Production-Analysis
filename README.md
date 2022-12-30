@@ -80,7 +80,8 @@ To deploy this project on [render](https://dashboard.render.com/)
 
 Below is the domo for created application
 
-![New Project](https://user-images.githubusercontent.com/109405138/208868848-be1b6bfe-3b83-41bb-a1a4-4959e5c16896.gif)
+![rice (1)](https://user-images.githubusercontent.com/109405138/210094280-ded72b7d-801c-4999-8d1c-e0c0f00192d6.gif)
+
 
 ## Live demo
 Below is the link for live demo
