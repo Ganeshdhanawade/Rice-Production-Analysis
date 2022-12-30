@@ -128,7 +128,7 @@ Below link is to dataset on kaggle
 https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification
 ## Acknowledgements
 
- - [Awesome HTML Templates](https://github.com/Ganeshdhanawade/Mobile-price-analysis/commit/79213690628738dcd2f12d9bccf38dae35de1725)
+ - [Awesome HTML Templates](https://github.com/Ganeshdhanawade/Rice-Production-Analysis)
  - [Awesome Flask file](https://github.com/matiassingers/awesome-readme)
  - [Project Details](https://github.com/Ganeshdhanawade/Mobile-price-analysis/blob/main/Mobile%20Price%20Classification_detailed.docx)
 
